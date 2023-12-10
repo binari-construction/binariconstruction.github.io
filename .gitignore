@@ -8,9 +8,9 @@ lerna-debug.log*
 .pnpm-debug.log*
 
 
-/resources/
-/assets/jsconfig.json
-/public/
+# /resources/
+# /assets/jsconfig.json
+# /public/
 .hugo_build.lock
 
 # NPM
