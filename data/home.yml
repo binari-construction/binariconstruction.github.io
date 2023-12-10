@@ -29,6 +29,13 @@ main_slider:
       link: "/portfolio/bc-01/"
       image: "images/started-n26-1920x1080.jpg"
 
+    - title: "Blog: Ensuring Safety and Stability in Your Home"
+      subtitle: "Home UpKeep"
+      tag: "The Essential Guide to Structural Integrity in Your Home"
+      description: "Every homeowner wants to feel safe and secure in their home. A crucial aspect of this security lies in the structural integrity of the building - a term that often gets mentioned but is not always fully understood. In this detailed guide, part of our series on home maintenance, we will explore what structural integrity means, why it's vital, and how to assess it in your home."
+      link: "/blog/structural-faults/"
+      image: "images/started-n26-1920x1080.jpg"
+
     
 
 # ### Grid Slider [ gridSlider ]
