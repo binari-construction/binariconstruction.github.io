@@ -7,6 +7,22 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
+
+/resources/
+/assets/jsconfig.json
+/public/
+.hugo_build.lock
+
+# NPM
+node_modules/
+
+# Prettier
+.prettiercache
+
+# Misc
+.DS_Store
+
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
