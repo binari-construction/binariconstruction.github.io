@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Binari Construction - A Rennovation &amp; Upkeep Company</title>
-    <link>https://binari.construction/portfolio/</link>
+    <link>https://www.binari.construction/portfolio/</link>
     <description>Recent content in Projects on Binari Construction - A Rennovation &amp; Upkeep Company</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://binari.construction/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.binari.construction/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gulberg Green II</title>
-      <link>https://binari.construction/portfolio/bc-03/</link>
+      <link>https://www.binari.construction/portfolio/bc-03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://binari.construction/portfolio/bc-03/</guid>
+      <guid>https://www.binari.construction/portfolio/bc-03/</guid>
       <description></description>
     </item>
     <item>
       <title>Gulberg II</title>
-      <link>https://binari.construction/portfolio/bc-02/</link>
+      <link>https://www.binari.construction/portfolio/bc-02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://binari.construction/portfolio/bc-02/</guid>
+      <guid>https://www.binari.construction/portfolio/bc-02/</guid>
       <description></description>
     </item>
     <item>
       <title>Potohar 2H</title>
-      <link>https://binari.construction/portfolio/bc-01/</link>
+      <link>https://www.binari.construction/portfolio/bc-01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://binari.construction/portfolio/bc-01/</guid>
+      <guid>https://www.binari.construction/portfolio/bc-01/</guid>
       <description></description>
     </item>
   </channel>
