@@ -1,6 +1,6 @@
 # General Settings
 title = "Binari Construction - A Rennovation & Upkeep Company"
-baseURL = "https://binari.construction/" 
+baseURL = "https://www.binari.construction" 
 languageCode = "en-us"
 theme = "aster"
 resourceDir = "resources"
