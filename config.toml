@@ -61,8 +61,8 @@ DefaultContentLanguage = "en"
 dateFormat = "January 2, 2006"
 authorName = "Federico Ober"
 disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
-formspreeURL = "" #YOUR FORMSPREE URL
-googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
+formspreeURL = "https://formspree.io/f/xrgwndno" #YOUR FORMSPREE URL
+googleAnalytics = "G-TE1HX45WV1" #YOUR GOOGLE ANALYTICS CODE
 
 # Preloader Settings
 [params.preloader]
